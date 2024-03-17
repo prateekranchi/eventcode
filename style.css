@@ -1,5 +1,9 @@
-body{background: linear-gradient(to right, #000000, #434343);}
-
+body{background: linear-gradient(to right, #9796f0, #fbc7d4);}
+img:hover {
+    color: #111;
+    background: rgb(180, 227, 108);
+    box-shadow: 0 0 100px greenyellow;
+        }
 
 
 
@@ -11,11 +15,11 @@ body{background: linear-gradient(to right, #000000, #434343);}
     text-align: center;
 }
 
-#fan {background: linear-gradient(to right, #e0eafc, #cfdef3);}
+#fan {border: none;}
 
-#bulb {background: linear-gradient(to right, #e0eafc, #cfdef3);}
+#bulb {border: none;}
 
-#led {background: linear-gradient(to right, #e0eafc, #cfdef3);}
+#led {border: none;}
 
 .search {
     margin-top: 10px;
@@ -25,3 +29,5 @@ body{background: linear-gradient(to right, #000000, #434343);}
     margin: 50px;
     margin-left: 100px;
 }
+.buttonbulb{background-color: #fbc7d4;}
+.buttonbulb:hover{background-color: #9796f0;}
