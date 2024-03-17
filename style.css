@@ -1,0 +1,27 @@
+body{background: linear-gradient(to right, #000000, #434343);}
+
+
+
+
+.search {
+    text-align: center;
+}
+
+.card-text {
+    text-align: center;
+}
+
+#fan {background: linear-gradient(to right, #e0eafc, #cfdef3);}
+
+#bulb {background: linear-gradient(to right, #e0eafc, #cfdef3);}
+
+#led {background: linear-gradient(to right, #e0eafc, #cfdef3);}
+
+.search {
+    margin-top: 10px;
+}
+
+.col {
+    margin: 50px;
+    margin-left: 100px;
+}
